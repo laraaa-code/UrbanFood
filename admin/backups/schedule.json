@@ -1,0 +1,10 @@
+{
+    "activo": true,
+    "frecuencia": "diario",
+    "hora": "18:30",
+    "directorio": "C:\\AppServ\\www\\proyect2.1_output\\admin\/backups",
+    "creado": "2026-05-21 00:29:35",
+    "ultimo_respaldo": "2026-05-21 00:08:18",
+    "ultimo_archivo": "respaldo_20260521_000817.sql",
+    "proximo_ts": 1779409800
+}
