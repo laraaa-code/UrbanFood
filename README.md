@@ -26,5 +26,6 @@ Abre en el navegador:
 http://localhost/UrbanFood
 
 Acceso al sistema
+
 Puedes crear tus propias credenciales, pero en administrador tienes que usar:
 "urbanfood2024"
